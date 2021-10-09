@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @curtcurt69.
 - 👀 I’m interested in ... IT, music, and video games.
-- 🌱 I’m currently learning ... HTML, CSS, JavaScript, and PHP.
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript, PHP, and studying for the CySA+ certification exam.
 - 💞️ I’m looking to collaborate on ... Websites, databases, networking.
 - 📫 How to reach me ... cecrouse96@yahoo.com.
 
