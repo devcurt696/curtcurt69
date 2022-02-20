@@ -1,3 +1,4 @@
+# Welcome to my GitHub
 - 👋 Hi, I’m Curtis Crouse.
 - 👀 I’m interested in ... IT, music, and video games.
 - 🌱 I’m currently learning ... HTML, CSS, JavaScript, PHP, and studying for the CySA+ certification exam.
