@@ -1,7 +1,7 @@
 # Welcome to my GitHub
 - 👋 Hi, I’m Curtis Crouse.
-- 👀 I’m interested in ... IT, music, and video games.
-- 🌱 I’m currently learning ... HTML, CSS, JavaScript, PHP, and studying for the CySA+ certification exam.
+- 👀 I’m interested in ... IT, web development, music, and video games.
+- 🌱 I know ... HTML, CSS, JavaScript, PHP, Jquery, and SQL.
 - 💞️ I’m looking to collaborate on ... Websites, databases, networking.
 - 📫 How to reach me ... cecrouse96@yahoo.com, crouc3@mail.broward.edu, 954-604-1624.
 
