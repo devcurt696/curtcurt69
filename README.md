@@ -25,4 +25,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2.2]: https://www.github.com/curtcurt69/curtcurt69/blob/main/In-Blue.png
 
 [1]: https://twitter.com/youngwheelz
-[2]: https://www.linkedin.com/in/crouse-curtis-a09353143/
+[2]: https://www.linkedin.com/in/curtis-crouse-a09353143/
