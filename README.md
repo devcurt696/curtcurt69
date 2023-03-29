@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 [1.2]: http://i.imgur.com/wWzX9uB.png 
-[2.2]: https://github.com/curtcurt69/curtcurt69/blob/main/In-Blue.png
+[2.2]: https://rawgithubusercontent.com/curtcurt69/curtcurt69/blob/main/In-Blue.png
 
 [1]: https://twitter.com/youngwheelz
 [2]: https://www.linkedin.com/in/crouse-curtis-a09353143/
