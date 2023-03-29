@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 ![Visitor Count](https://profile-counter.glitch.me/curtcurt69/count.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C21717&lines=Coding+is+love%2C+coding+is+life.)](https://git.io/typing-svg)
+![Alt text](https://github.com/curtcurt69/curtcurt69/blob/main/header.png)
