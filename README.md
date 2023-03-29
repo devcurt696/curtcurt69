@@ -25,4 +25,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
 
 [1]: https://twitter.com/youngwheelz
-[2]: https://www.linkedin.com/in/crouse-curtis/
+[2]: https://www.linkedin.com/in/crouse-curtis-a09353143/
