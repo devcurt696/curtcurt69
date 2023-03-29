@@ -19,6 +19,10 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue) ![](https://img.shields.io/badge/Editor-PHPStorm-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow) ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blueviolet) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue) ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple) ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 [1]: https://twitter.com/youngwheelz
 [2]: https://www.linkedin.com/in/crouse-curtis/
