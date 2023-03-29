@@ -13,3 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C21717&lines=Coding+is+love%2C+coding+is+life.)](https://git.io/typing-svg)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curtcurt69&show_icons=true&theme=radical)
