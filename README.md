@@ -17,4 +17,5 @@ You can click the Preview link to take a look at your changes.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=curtcurt69&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://img.shields.io/badge/os-windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/os-windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/editor-PHPStorm-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
