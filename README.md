@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [1.2]: http://i.imgur.com/wWzX9uB.png 
-[2.2]: https://icons8.com/icon/13930/linkedin
+[2.2]: https://i.stack.imgur.com/gVE0j.png
 
 [1]: https://twitter.com/youngwheelz
 [2]: https://www.linkedin.com/in/curtis-crouse-a09353143/
