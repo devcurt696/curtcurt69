@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 ![Alt text](https://github.com/curtcurt69/curtcurt69/blob/main/header.png)
-- 👀 I’m a web developer, musician and gamer.
+- I’m a web developer, musician and gamer.
 - I know  HTML, CSS, JavaScript, PHP, Jquery, React, Next.js, Node.js, Express.js, Laravel, Java, Python, C++, C#, ASP.NET and SQL.
 - I’m looking to collaborate on Websites, web apps, databases, networking.
 - 📫 You can reach me at cecrouse96@yahoo.com, crouc3@mail.broward.edu, or my cell 954-604-1624.
